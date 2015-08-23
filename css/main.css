@@ -66,3 +66,14 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
+
+/* line 1, ../sass/_screen.scss */
+.main {
+  padding: 0 40%;
+  background: #0f0;
+}
+/* line 4, ../sass/_screen.scss */
+.main .logo {
+  float: left;
+  background: #f00;
+}
